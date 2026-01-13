@@ -1,3 +1,5 @@
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/afrabouzehar/bash-automation-lab)
+
 # Bash Automation Lab 🐧⚙️
 
 A collection of practical **Bash automation scripts** designed to replace boring coursework drills with real, useful tasks.  
