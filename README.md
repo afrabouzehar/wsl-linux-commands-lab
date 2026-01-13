@@ -1,4 +1,6 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/afrabouzehar/bash-automation-lab)
+![GitHub last commit](https://img.shields.io/github/last-commit/afrabouzehar/bash-automation-lab)
+
 
 # Bash Automation Lab 🐧⚙️
 
